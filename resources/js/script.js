@@ -2,24 +2,13 @@ $.getJSON("resources/json/books.json", function(data) {
   console.log(data);
 
   var coursebefore = "";
-  for (var key in data) {
+  for (var course in data) {
     // console.log(data[key]);
-
-    if (data[key].course == coursebefore) {
-      $("p").append("<i class='name'>" + data[key].name + "</i><br>");
-      $("p").append("<a class='link' href='" + data[key].link + "'>" + data[key].link + "</a><br>");
+    console.log(data[course]);
+    $("p").append("<b class='course'>" + data[course].course + "</b><br>");
+    for (var book in data[course].coursebook) {
+      $("p").append("<i class='name'>" + data[course].coursebook[book].name + "</i><br>");
     }
-    else if (data[key].course == "") {
-      $("p").append("<b class='course'>" + data[key].course + "</b><br>");
-      $("p").append("<i class='name'>" + data[key].name + "</i><br>");
-      $("p").append("<a class='link' href='" + data[key].link + "'>" + data[key].link + "</a><br>");
-    }
-    else {
-      $("p").append("<b class='course'>" + data[key].course + "</b><br>");
-      $("p").append("<i class='name'>" + data[key].name + "</i><br>");
-      $("p").append("<a class='link' href='" + data[key].link + "'>" + data[key].link + "</a><br>");
-    }
-    coursebefore = data[key].course;
   }
   $(".course").click(function() {
     $(".link").toggle();

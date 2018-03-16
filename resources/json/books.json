@@ -1,162 +1,207 @@
-[
- {
-   "name": "Mobile HTML5",
-   "link": "http://anonfile.com/E1D7Ofd3bf",
-   "course": "Flerplattformsapplikationer med webbtekniker"
- },
- {
-   "name": "Designing Multi-Device Experiences",
-   "link": "http://anonfile.com/GeDfObd3b1",
-   "course": "Flerplattformsapplikationer med webbtekniker"
- },
- {
-   "name": "The Elements of User Experience",
-   "link": "http://anonfile.com/IaDeO8d7b8",
-   "course": "Informationsarkitektur 1"
- },
- {
-   "name": "Information Architecture",
-   "link": "http://anonfile.com/J2D9O8ddbe",
-   "course": "Informationsarkitektur 1"
- },
- {
-   "name": "Designing with the Mind in Mind",
-   "link": "http://anonfile.com/KfDaO2d5b5",
-   "course": "Informationsarkitektur 1"
- },
- {
-   "name": "Content Strategy for the web",
-   "link": "http://anonfile.com/L5DdO5d6b8",
-   "course": "Informationsarkitektur 2"
- },
- {
-   "name": "Pervasive information architecture",
-   "link": "http://anonfile.com/MfDbO5d2b8",
-   "course": "Informationsarkitektur 2"
- },
- {
-   "name": "Social semantic web",
-   "link": "http://anonfile.com/O9D5O4d6b4",
-   "course": "Informationsarkitektur 2"
- },
- {
-   "name": "Introduction to Information Visualization",
-   "link": "http://anonfile.com/QcD8O5d0b3",
-   "course": "Informationsdesign"
- },
- {
-   "name": "Visual Thinking for Design",
-   "link": "http://anonfile.com/S7D0Odd2b6/",
-   "course": "Informationsdesign"
- },
- {
-   "name": "Visualize This",
-   "link": "http://anonfile.com/T8D5Obd2b8",
-   "course": "Informationsdesign"
- },
- {
-   "name": "löwgren",
-   "link": "http://anonfile.com/U6DbO2d5bf",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Sketching User Experiences",
-   "link": "http://anonfile.com/W4D7Ocd4be",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "The Design of Everyday Things",
-   "link": "http://anonfile.com/XbD8O8d0b6",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter1",
-   "link": "http://anonfile.com/c1E6Oad3b7",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter2",
-   "link": "http://anonfile.com/Y5DfO8dcbd",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter3",
-   "link": "http://anonfile.com/b2EeOdd3b3",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter4",
-   "link": "http://anonfile.com/acEcO8d0b3",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter5",
-   "link": "http://anonfile.com/Z9D8O5d6bd",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter6",
-   "link": "http://anonfile.com/d4E8O0d2b6",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter7",
-   "link": "http://anonfile.com/f8EcO6d8ba",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Chapter8",
-   "link": "http://anonfile.com/e2EfO5dab2",
-   "course": "Interaktionsdesign"
- },
- {
-   "name": "Measuring the User Experience",
-   "link": "http://anonfile.com/x0E1Obd5b5",
-   "course": "Metodik för mätning av användbarhet"
- },
- {
-   "name": "Statistics Concepts and Controversies",
-   "link": "http://anonfile.com/v2E7O7d1b5",
-   "course": "Metodik för mätning av användbarhet"
- },
- {
-   "name": "Practical Web Analytics for User Experience",
-   "link": "http://anonfile.com/wdE9O8d1b6",
-   "course": "Metodik för mätning av användbarhet"
- },
- {
-   "name": "Problem Solving with Algorithms and Data Structures",
-   "link": "http://anonfile.com/11E7Odd8ba",
-   "course": "Objektorienterad programmering och modellering för IA"
- },
- {
-   "name": "Think Python 1st edition",
-   "link": "http://anonfile.com/04E6O9d0b3",
-   "course": "Objektorienterad programmering och modellering för IA"
- },
- {
-   "name": "Think Python 2nd edition",
-   "link": "http://anonfile.com/zfE5O8d4bc",
-   "course": "Objektorienterad programmering och modellering för IA"
- },
- {
-   "name": "Software Engineering",
-   "link": "http://anonfile.com/30E2O4d3bb",
-   "course": "Systemutveckling och projekt 1"
- },
- {
-   "name": "REST in Practice",
-   "link": "http://anonfile.com/50E4Oddcb7",
-   "course": "Webbtjänster"
- },
- {
-   "name": "SOA in Practice",
-   "link": "http://anonfile.com/44E7Oedabc",
-   "course": "Webbtjänster"
- },
- {
-   "name": "Responsive Web Design",
-   "link": "http://anonfile.com/66E2Obd1bf",
-   "course": "Webbutveckling"
- }
+[{
+    "course": "Flerplattformsapplikationer med webbtekniker",
+    "id": 1,
+    "coursebook": [{
+        "name": "Mobile HTML5",
+        "link": "http://anonfile.com/E1D7Ofd3bf",
+        "ISBN": ""
+      },
+      {
+        "name": "Designing Multi-Device Experiences",
+        "link": "http://anonfile.com/GeDfObd3b1",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Informationsarkitektur 1",
+    "id": 2,
+    "coursebook": [{
+        "name": "The Elements of User Experience",
+        "link": "http://anonfile.com/IaDeO8d7b8",
+        "ISBN": ""
+      },
+      {
+        "name": "Information Architecture",
+        "link": "http://anonfile.com/J2D9O8ddbe",
+        "ISBN": ""
+      }, {
+        "name": "Designing with the Mind in Mind",
+        "link": "http://anonfile.com/KfDaO2d5b5",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Informationsarkitektur 2",
+    "id": 3,
+    "coursebook": [{
+        "name": "Content Strategy for the web",
+        "link": "http://anonfile.com/L5DdO5d6b8",
+        "ISBN": ""
+      },
+      {
+        "name": "Pervasive information architecture",
+        "link": "http://anonfile.com/MfDbO5d2b8",
+        "ISBN": ""
+      }, {
+        "name": "Social semantic web",
+        "link": "http://anonfile.com/O9D5O4d6b4",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Informationsdesign",
+    "id": 4,
+    "coursebook": [{
+        "name": "Introduction to Information Visualization",
+        "link": "http://anonfile.com/QcD8O5d0b3",
+        "ISBN": ""
+      },
+      {
+        "name": "Visual Thinking for Design",
+        "link": "http://anonfile.com/S7D0Odd2b6/",
+        "ISBN": ""
+      }, {
+        "name": "Visualize This",
+        "link": "http://anonfile.com/T8D5Obd2b8",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Interaktionsdesign",
+    "id": 5,
+    "coursebook": [{
+        "name": "löwgren",
+        "link": "http://anonfile.com/U6DbO2d5bf",
+        "ISBN": ""
+      },
+      {
+        "name": "Sketching User Experiences",
+        "link": "http://anonfile.com/W4D7Ocd4be",
+        "ISBN": ""
+      },
+      {
+        "name": "The Design of Everyday Things",
+        "link": "http://anonfile.com/XbD8O8d0b6",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter1",
+        "link": "http://anonfile.com/c1E6Oad3b7",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter2",
+        "link": "http://anonfile.com/Y5DfO8dcbd",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter3",
+        "link": "http://anonfile.com/b2EeOdd3b3",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter4",
+        "link": "http://anonfile.com/acEcO8d0b3",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter5",
+        "link": "http://anonfile.com/Z9D8O5d6bd",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter6",
+        "link": "http://anonfile.com/d4E8O0d2b6",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter7",
+        "link": "http://anonfile.com/f8EcO6d8ba",
+        "ISBN": ""
+      },
+      {
+        "name": "Chapter8",
+        "link": "http://anonfile.com/e2EfO5dab2",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Metodik för mätning av användbarhet",
+    "id": 6,
+    "coursebook": [{
+        "name": "Measuring the User Experience",
+        "link": "http://anonfile.com/x0E1Obd5b5",
+        "ISBN": ""
+      },
+      {
+        "name": "Statistics Concepts and Controversies",
+        "link": "http://anonfile.com/v2E7O7d1b5",
+        "ISBN": ""
+      },
+      {
+        "name": "Practical Web Analytics for User Experience",
+        "link": "http://anonfile.com/wdE9O8d1b6",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Objektorienterad programmering och modellering för IA",
+    "id": 7,
+    "coursebook": [{
+        "name": "Problem Solving with Algorithms and Data Structures",
+        "link": "http://anonfile.com/11E7Odd8ba",
+        "ISBN": ""
+      },
+      {
+        "name": "Think Python 1st edition",
+        "link": "http://anonfile.com/04E6O9d0b3",
+        "ISBN": ""
+      },
+      {
+        "name": "Think Python 2nd edition",
+        "link": "http://anonfile.com/zfE5O8d4bc",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Systemutveckling och projekt 1",
+    "id": 8,
+    "coursebook": [{
+      "name": "Software Engineering",
+      "link": "http://anonfile.com/30E2O4d3bb",
+      "ISBN": ""
+    }]
+  },
+  {
+    "course": "Webbtjänster",
+    "id": 9,
+    "coursebook": [{
+        "name": "REST in Practice",
+        "link": "http://anonfile.com/50E4Oddcb7",
+        "ISBN": ""
+      },
+      {
+        "name": "SOA in Practice",
+        "link": "http://anonfile.com/44E7Oedabc",
+        "ISBN": ""
+      }
+    ]
+  },
+  {
+    "course": "Webbutveckling",
+    "id": 10,
+    "coursebook": [{
+      "name": "Responsive Web Design",
+      "link": "http://anonfile.com/66E2Obd1bf",
+      "ISBN": ""
+    }]
+  }
+
 ]
